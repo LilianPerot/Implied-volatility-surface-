@@ -21,6 +21,13 @@ C'est du "plug and play". Tu lances le `main()` et tu suis les instructions dans
 ### Dépendances
 `pip install numpy pandas matplotlib yfinance`
 
+## Aperçu
+### Visualisation d'une Surface 
+![Surface de Volatilité](Volatility_surface_TSLA_put.png)
+
+### Visualisation d'un Smile
+![Smile de Volatilité](Volatility_smile_AAPL_put.png)
+
 ## Pourquoi ce projet ?
 Je suis actuellement en **Master 1 MBFA à l'université Lyon 2**. Ce projet me permet de manipuler concrètement les concepts de pricing, et travailler ma pratique du language Python. 
 
