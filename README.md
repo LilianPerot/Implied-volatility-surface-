@@ -21,7 +21,7 @@ C'est du "plug and play". Tu lances le `main()` et tu suis les instructions dans
 ### Dépendances
 `pip install numpy pandas matplotlib yfinance`
 
-## Aperçu
+## Aperçus
 ### Visualisation d'une Surface 
 ![Surface de Volatilité](Volatility_surface_TSLA_put.png)
 
